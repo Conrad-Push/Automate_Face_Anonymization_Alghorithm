@@ -1,2 +1,2 @@
 # Automate_Face_Anonymization_Alghorithm
-Alghoritm which provides automatic face detection and then anonymization.
+Alghorithm which provides automatic face detection and then anonymization.
